@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "..\ExDLL\exdll.h"
+#include "exdll.h"
 
 #define BUTTON_TEXT_FONTSIZE  14
 #define BUTTON_TEXT_SHOWPARAM TEXT("/SHOWTEXT")
